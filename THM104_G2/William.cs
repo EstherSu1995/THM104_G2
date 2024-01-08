@@ -4,7 +4,7 @@ namespace THM104_G2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("THM105加油！");
+            Console.WriteLine("THM104加油！");
         }
     }
 }
