@@ -11,6 +11,7 @@ namespace THM104_G2
         static void Main(string[] args)
         {
             Console.WriteLine("哈囉~我是依姍~");
+            Console.WriteLine("分支");
         }
     }
 }
