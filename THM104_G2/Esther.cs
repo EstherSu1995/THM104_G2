@@ -9,7 +9,7 @@ namespace THM104_G2
     internal class Esther
     {
         public void Foo() {
-            Console.WriteLine("THM104");
+            Console.WriteLine("THM104!");
         }
         
     }
