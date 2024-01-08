@@ -15,7 +15,7 @@ namespace THM104_G2
             SqlDataReader reader = cmd.ExecuteReader();//指到標題
             while (reader.Read()) ;//Read()嘗試指到第一行，指到第一行就會回true，判斷有沒有下一筆
 
-            Console.WriteLine("Chloe");
+            Console.WriteLine("Esther");
 
 
         }
